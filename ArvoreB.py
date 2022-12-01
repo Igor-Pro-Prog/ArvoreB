@@ -1,5 +1,5 @@
-#Arvore B, Estrutura de Dados 2
-#Implementação de akgumas funcoes da arvore B
+#Estrutura de Dados 2
+#Implementação de algumas funcoes da arvore B
 class BTree:
     def __init__(self, t):
         self.t = t
